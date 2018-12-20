@@ -8,7 +8,7 @@ This repo  collects a few things that are helpful for modding an Arcade1Up. If y
 
 
 ## Customization
-* [Splashscreens](/splashscreens)
+* [Splash Screens](/splashscreens)
 * [Images](/images)
 
 ## Resources
@@ -17,6 +17,7 @@ This repo  collects a few things that are helpful for modding an Arcade1Up. If y
 * [Retropie](https://retropie.org.uk)
 * [Raspberry Pi Power Button Tutorial](https://gameroomsolutions.com/setup-daphne-raspberry-pi-3-retropie)
 * [Raspberry Pi Volume Knob Tutorial](https://gist.github.com/savetheclocktower/9b5f67c20f6c04e65ed88f2e594d43c1)
+* [Disable EmulationStation Splash Screen](https://www.reddit.com/r/RetroPie/comments/6871yo/is_there_a_way_to_get_rid_of_the_emulation/) - Disable the splash screen so your custom one shows until booted.
 
 ## Parts
 
