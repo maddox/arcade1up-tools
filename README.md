@@ -34,7 +34,7 @@ This repo  collects a few things that are helpful for modding an Arcade1Up. If y
 
 Here's some tricks of the trade to make your Arcade1Up mod look more official.
 
-## Hide EmulationStation Splash screen
+### Hide EmulationStation Splash screen
 
 This disables EmulationStation's splash screen so that your custom splash screen shows until everything is completely booted up.
 
@@ -42,10 +42,10 @@ Edit `/opt/retropie/configs/all/autostart.sh` to be
 
     emulationstation --no-splash #auto
 
-## Hide console output on boot
+### Hide console output on boot
 
 Edit `/boot/cmdline.text` and set `console=tty3`
 
-## Hide Raspbery Pi Logo on boot
+### Hide Raspbery Pi Logo on boot
 
 Edit `/boot/cmdline.text` and add `logo.nologo`
