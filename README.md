@@ -17,7 +17,6 @@ This repo  collects a few things that are helpful for modding an Arcade1Up. If y
 * [Retropie](https://retropie.org.uk)
 * [Raspberry Pi Power Button Tutorial](https://gameroomsolutions.com/setup-daphne-raspberry-pi-3-retropie)
 * [Raspberry Pi Volume Knob Tutorial](https://gist.github.com/savetheclocktower/9b5f67c20f6c04e65ed88f2e594d43c1)
-* [Disable EmulationStation Splash Screen](https://www.reddit.com/r/RetroPie/comments/6871yo/is_there_a_way_to_get_rid_of_the_emulation/) - Disable the splash screen so your custom one shows until booted.
 
 ## Parts
 
@@ -30,3 +29,23 @@ This repo  collects a few things that are helpful for modding an Arcade1Up. If y
 * [Rotary Encoder](https://amzn.to/2BwlIoc) - Use this for adding a volume knob to your cabinet.
 * [Step bit](https://amzn.to/2Bxu6nv) - Use this to drill new holes in your cabinet for more buttons.
 * [Master/Slave Power strip](https://amzn.to/2R5M2zm) - Plug your pi into `Master` and when it powers down, everything else powers down.
+
+## Advanced RetroPie/Raspberry Pi Customizations
+
+Here's some tricks of the trade to make your Arcade1Up mod look more official.
+
+## Hide EmulationStation Splash screen
+
+This disables EmulationStation's splash screen so that your custom splash screen shows until everything is completely booted up.
+
+Edit `/opt/retropie/configs/all/autostart.sh` to be
+
+    emulationstation --no-splash #auto
+
+## Hide console output on boot
+
+Edit `/boot/cmdline.text` and set `console=tty3`
+
+## Hide Raspbery Pi Logo on boot
+
+Edit `/boot/cmdline.text` and add `logo.nologo`
