@@ -2,6 +2,7 @@
 <a href="https://www.arcade1up.com"><img style="text-align: center" width="500px" src="https://github.com/maddox/arcade1up-tools/raw/master/images/arcade1up-logo.png?raw=true" /></a>
 </p>
 
+<br>
 
 This repo  collects a few things that are helpful for modding an Arcade1Up. If you're nostalgic and have played with emulation for a while, this is a great project. It's practically all just plug and play.
 
