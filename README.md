@@ -15,7 +15,7 @@ This repo  collects a few things that are helpful for modding an Arcade1Up. If y
 * [ETAPrime](https://youtube.com/etaprime)'s [amazing tutorial](https://www.youtube.com/watch?v=09DQCOr6zQM) modding an Arcade1Up with a Raspberry Pi and RetroPie
 * [Arcade1Up Subreddit](https://reddit.com/r/arcade1up)
 * [Retropie](https://retropie.org.uk)
-* [Raspberry Pi Power Button Tutorial](https://gameroomsolutions.com/setup-daphne-raspberry-pi-3-retropie)
+* [Raspberry Pi Power Button Tutorial](https://howchoo.com/g/mwnlytk3zmm/how-to-add-a-power-button-to-your-raspberry-pi)
 * [Raspberry Pi Volume Knob Tutorial](https://gist.github.com/savetheclocktower/9b5f67c20f6c04e65ed88f2e594d43c1)
 * [sselph scraper](https://github.com/sselph/scraper) - fastest scraper to fetch metadata for your roms.
 
